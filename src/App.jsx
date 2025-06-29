@@ -49,6 +49,9 @@ function App() {
           </p>
         </>
       )}
+      <footer className="mt-12 text-xs text-gray-400">
+        Made possible by a carbon-based contributor: <span className="italic">Lucas Wang™™™™™™™™™™™™™</span>
+      </footer>
     </div>
   )
 }
